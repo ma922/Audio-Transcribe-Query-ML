@@ -1,4 +1,4 @@
-# audio-transcribe
+# Audio Transcribe and Query
 
 Speech to text using Open AI whisper.
 
